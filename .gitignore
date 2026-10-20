@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+coverage/
+.DS_Store
+
+# Worker-managed local and generated files
+.env.*
+!.env.example
+.venv/
+logs/
+.cache/
